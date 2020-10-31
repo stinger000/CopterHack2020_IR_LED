@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-07T15:27:08Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Led_amp"
+        },
+        "Owner": "Sergey Stetsky <bigbani1334@gmail.com>",
+        "Size": {
+            "X": 25.38,
+            "Y": 13.64
+        }
+    }
+}
